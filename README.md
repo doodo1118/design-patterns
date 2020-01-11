@@ -1,4 +1,3 @@
-# design-patterns
-### Singleton
+## Singleton
 
-### Strategy
+## Strategy
